@@ -1,0 +1,30 @@
+            Section 2 : Django Fundamentals
+----In this section:
+        Introsuction to Django
+        Fundamentals of web development
+        Setting up the development environment
+        Your first Django project
+        2 essential debugging techniques
+
+
+What is Django ??:  Free and open-source framework for building web apps with python
+it is most populary framework of python.
+
+using by : youtube, instagramme, dropbox, spotify
+
+Django Features:
+    The adnin site
+    Object-Relational mapper ORM
+    Authentication
+    Caching
+
+pipenv
+
+
+The ultimate Django course
+--- 10hours of video
+--- Exercises and solutions
+--- A full e-commerce project
+--- 30-day-money-back guarantee
+--- certificate of completion
+
